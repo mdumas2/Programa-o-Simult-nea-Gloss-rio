@@ -2,7 +2,7 @@
 Um glossário para Programação Simultânea 
 
 <ul>
-  <li><a href="https://www.duckduckgo.com">Concorrência;</li>
+  <li><a href="https://github.com/mdumas2/Programa-o-Simult-nea-Gloss-rio/blob/main/Concorrencia.md">Concorrência;</a></li>
   <li>Assíncrono;</li>
   <li>Síncrono;</li>
   <li>Paralelo;</li>
